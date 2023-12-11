@@ -65,14 +65,3 @@ These instructions will help you set up and run the Pomodoro Timer on your local
 3. Use the "Reset" button to reset the timer.
 4. Follow the on-screen instructions for work and break sessions.
 
-## Contributing
-
-If you would like to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template based on your specific project details and structure. Include additional sections if needed, such as "Acknowledgments," "Troubleshooting," or "Contact Information." The goal is to provide clear and concise information for users and contributors.
