@@ -58,7 +58,7 @@ These instructions will help you set up and run the Pomodoro Timer on your local
 1. Run the Python script.
 
    ```bash
-   python pomodoro_timer.py
+   python main.py
    ```
 
 2. Use the "Start" button to begin a Pomodoro session.
